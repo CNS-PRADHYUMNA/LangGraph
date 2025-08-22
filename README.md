@@ -87,26 +87,29 @@ Even the best agents need human oversight:
 ## 🌐 RAGENTS Variants
 
 <p align="center">
-  <img src="image.png" alt="Adaptive RAGENT" width="500"/><br>
+  <img src="proj_imgs/image.png" alt="Adaptive RAGENT" width="500"/><br>
   <em>Adaptive RAGENT</em>
 </p>
 
 <p align="center">
-  <img src="image-5.png" alt="Agentic RAG Workflow" width="600"/><br>
+  <img src="proj_imgs/image-5.png" alt="Agentic RAG Workflow" width="600"/><br>
   <em>Agentic RAG Workflow</em>
 </p>
 
 <p align="center">
-  <img src="image-2.png" alt="Corrective RAGENT (CRAG)" width="500"/><br>
+  <img src="proj_imgs/image-2.png" alt="Corrective RAGENT (CRAG)" width="500"/><br>
   <em>Corrective RAGENT (CRAG)</em>
 </p>
 
 <p align="center">
-  <img src="image-3.png" alt="Knowledge-Augmented Graph (KAG)" width="500"/><br>
+  <img src="proj_imgs/image-3.png" alt="Knowledge-Augmented Graph (KAG)" width="500"/><br>
   <em>Knowledge-Augmented Graph (KAG)</em>
 </p>
 
+
+
+## 🤖 LLM Workflows / Design Patterns
 <p align="center">
-  <img src="image-6.png" alt="All LLM Workflows Overview" width="600"/><br>
+  <img src="proj_imgs/image-6.png" alt="All LLM Workflows Overview" width="600"/><br>
   <em>All LLM Workflows Overview</em>
 </p>
